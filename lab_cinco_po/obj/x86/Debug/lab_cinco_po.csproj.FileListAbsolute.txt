@@ -1,0 +1,12 @@
+/Users/Vicente/Projects/lab_cinco_po/lab_cinco_po/bin/Debug/lab_cinco_po.exe
+/Users/Vicente/Projects/lab_cinco_po/lab_cinco_po/bin/Debug/lab_cinco_po.pdb
+/Users/Vicente/Projects/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.csprojAssemblyReference.cache
+/Users/Vicente/Projects/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.csproj.CoreCompileInputs.cache
+/Users/Vicente/Projects/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.exe
+/Users/Vicente/Projects/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.pdb
+/Users/Vicente/Desktop/lab_cinco_po/lab_cinco_po/bin/Debug/lab_cinco_po.exe
+/Users/Vicente/Desktop/lab_cinco_po/lab_cinco_po/bin/Debug/lab_cinco_po.pdb
+/Users/Vicente/Desktop/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.csprojAssemblyReference.cache
+/Users/Vicente/Desktop/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.csproj.CoreCompileInputs.cache
+/Users/Vicente/Desktop/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.exe
+/Users/Vicente/Desktop/lab_cinco_po/lab_cinco_po/obj/x86/Debug/lab_cinco_po.pdb
